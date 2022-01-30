@@ -10,7 +10,7 @@ See <i>/help</i> for commands and more details.</b>
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<i>No help is providing here\njust join @movie_ott and ask for your movies)</i>
 
 
 <b>Basic Commands;</b>
@@ -22,7 +22,7 @@ See <i>/help</i> for commands and more details.</b>
 
 <b>Filter Commands;</b>
 
-<code>/add name reply</code>  -  Add filter for name
+<code>/addd name reply</code>  -  Addd filter for name
 
 <code>/del name</code>  -  Delete filter
 
@@ -48,13 +48,15 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>@movie_ott</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : MOVIE FLIX Filter Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creator :</b> @TroJanzHEX    
+
+⭕️<b>Cranger :</b> @elonmuskme
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
