@@ -22,7 +22,7 @@ See <i>/help</i> for commands and more details.</b>
 
 <b>Filter Commands;</b>
 
-<code>/addd name reply</code>  -  Addd filter for name
+<code>/add name reply</code>  -  Addd filter for name
 
 <code>/del name</code>  -  Delete filter
 
@@ -56,7 +56,7 @@ See <i>/help</i> for commands and more details.</b>
 
 ⭕️<b>Creator :</b> @TroJanzHEX    
 
-⭕️<b>Cranger :</b> @elonmuskme
+⭕️<b>Owner :</b> @elonmuskme
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
